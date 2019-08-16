@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class CharacterMovement : Movement
+public class CharacterMovementController : Movement
 {
     #region Private & Const Variables
 
@@ -19,8 +17,7 @@ public class CharacterMovement : Movement
     #region Private Methods
     private void Update()
     {
-        movement.x = Input.GetAxis("Horizontal");
-        movement.y = Input.GetAxis("Vertical");
+        movement = CustomInput.Get_WASD();
 
         UpdateAnimation();
     }

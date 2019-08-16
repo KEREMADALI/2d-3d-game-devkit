@@ -277,7 +277,6 @@ C:\Users\Kerem\Documents\Foo\Temp\bin\Debug\UnityEngine.Timeline.xml
 C:\Users\Kerem\Documents\Foo\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\Kerem\Documents\Foo\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\Kerem\Documents\Foo\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
-C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.dll
