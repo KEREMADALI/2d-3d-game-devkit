@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CustomInput.cs" />
     <Compile Include="Assets\Scripts\TopDown\CharacterMovementController.cs" />
+    <Compile Include="Assets\Scripts\TopDown\Explosion.cs" />
+    <Compile Include="Assets\Scripts\TopDown\MainController.cs" />
     <Compile Include="Assets\Scripts\TopDown\MovementController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Kerem/Documents/Foo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

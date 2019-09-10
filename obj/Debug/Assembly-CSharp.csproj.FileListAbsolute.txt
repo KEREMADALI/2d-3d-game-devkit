@@ -281,3 +281,4 @@ C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.dll
 C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Kerem\Documents\Foo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
