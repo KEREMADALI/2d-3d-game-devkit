@@ -61,6 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CustomInput.cs" />
+    <Compile Include="Assets\Scripts\Data.cs" />
+    <Compile Include="Assets\Scripts\IDatabaseHandler.cs" />
+    <Compile Include="Assets\Scripts\LocalDBHandler.cs" />
+    <Compile Include="Assets\Scripts\Singleton.cs" />
     <Compile Include="Assets\Scripts\TopDown\CharacterMovementController.cs" />
     <Compile Include="Assets\Scripts\TopDown\Explosion.cs" />
     <Compile Include="Assets\Scripts\TopDown\MainController.cs" />
